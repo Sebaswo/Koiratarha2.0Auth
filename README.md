@@ -11,7 +11,7 @@ The app uses a client (Vite), GraphQL API server, REST API AUTH server and a NoS
 # Get started:
 
 - Clone this repo
-- Clone the AUTH server: https://github.com/Sebaswo/Koiratarha2.0Auth
+- Clone the GraphQL API: https://github.com/Sebaswo/Koiratarha2.0Api
 - Clone the client: https://github.com/Sebaswo/Koiratarha2.0Client
 - Set up .env file for all based on .env.sample
     - Remember to use different ports
